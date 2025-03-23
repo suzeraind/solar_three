@@ -25,11 +25,11 @@ It demonstrates how to create interactive 3D scenes with reusable components, an
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/suzeraind/solar_three.git
    ```
 2. Navigate to the project directory:
      ```bash 
-     cd /path/to/your/folder/
+     cd ./solar_three
      ```
 3. Install dependencies:
     ```bash 
